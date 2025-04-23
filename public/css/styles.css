@@ -1,0 +1,11 @@
+html, body{
+    padding: 20px;
+    background-color: grey
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
